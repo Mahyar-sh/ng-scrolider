@@ -1,5 +1,5 @@
 import { NgModule } from '@angular/core';
-import { NgScroliderComponent } from './ng-scrolider.component';
+import { NgScroliderComponent } from './components/ng-scrolider.component';
 
 
 
