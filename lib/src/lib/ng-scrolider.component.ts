@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'lib-ng-scrolider',
+  selector: 'ng-scrolider',
   template: `
     <p>
       ng-scrolider works!
